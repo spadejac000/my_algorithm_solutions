@@ -8,4 +8,4 @@ function fiboEvenSum(n) {
 
 }
 
-fiboEvenSum(10);
+console.log(fiboEvenSum(10));
